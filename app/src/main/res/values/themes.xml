@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AplicatieID" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:windowBackground">@color/background_default</item>
+        <item name="android:colorBackground">@color/background_default</item>
+        <item name="colorSurface">@color/surface_default</item>
+
+
+        <item name="android:textColorPrimary">@color/text_primary_default</item>
+        <item name="android:textColorSecondary">@color/text_secondary_default</item>
+        <item name="android:textColorHint">@color/text_hint_default</item>
+
+
+        <item name="android:statusBarColor">@color/material_blue_700</item>
+        <item name="android:navigationBarColor">@color/material_blue_900</item>
+
+    </style>
+</resources>

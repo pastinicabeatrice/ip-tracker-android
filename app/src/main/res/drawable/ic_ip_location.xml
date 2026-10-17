@@ -1,0 +1,15 @@
+<svg viewBox="0 0 108 108" xmlns="http://www.w3.org/2000/svg">
+
+    <rect width="108" height="108" fill="#6200EE" rx="24"/>
+
+    <path d="M10 10 H98 M10 54 H98 M10 98 H98"
+        stroke="#8A3EFF" stroke-width="2" stroke-linecap="round" opacity="0.3"/>
+    <path d="M10 10 V98 M54 10 V98 M98 10 V98"
+        stroke="#8A3EFF" stroke-width="2" stroke-linecap="round" opacity="0.3"/>
+
+    <path d="M54 30c-8.8 0-16 7.2-16 16 0 12 16 32 16 32s16-20 16-32c0-8.8-7.2-16-16-16zm0 24c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-3.6 8-8 8z"
+        fill="white"/>
+
+    <text x="54" y="90" font-family="Arial, sans-serif" font-size="14"
+        fill="white" text-anchor="middle" font-weight="bold">IP LOCAȚE</text>
+</svg>
